@@ -1,0 +1,6 @@
+c:\users\ljeon\documents\visual studio 2013\Projects\POC\POC\bin\Debug\POC.exe.config
+c:\users\ljeon\documents\visual studio 2013\Projects\POC\POC\bin\Debug\POC.exe
+c:\users\ljeon\documents\visual studio 2013\Projects\POC\POC\bin\Debug\POC.pdb
+c:\users\ljeon\documents\visual studio 2013\Projects\POC\POC\obj\Debug\POC.csprojResolveAssemblyReference.cache
+c:\users\ljeon\documents\visual studio 2013\Projects\POC\POC\obj\Debug\POC.exe
+c:\users\ljeon\documents\visual studio 2013\Projects\POC\POC\obj\Debug\POC.pdb
